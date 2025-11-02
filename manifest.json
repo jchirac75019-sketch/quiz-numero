@@ -1,7 +1,7 @@
 {
   "id": "quran-quiz-app",
-  "name": "صحائف الرحمة (إدريس بن صالح)",
-  "short_name": "صحائف الرحمة (إدريس بن صالح)",
+  "name": "لَّقَدۡ أَحۡصَىٰهُمۡ وَعَدَّهُمۡ عَدࣰّا",
+  "short_name": "لَّقَدۡ أَحۡصَىٰهُمۡ وَعَدَّهُمۡ عَدࣰّا",
   "description": "Interactive Quranic verse quiz with audio, scoring, and Arabic support. Available on Windows, Android, and iOS.",
   "start_url": "/quiz-numero/",
   "scope": "/quiz-numero/",
